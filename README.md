@@ -144,5 +144,5 @@ This application is tailored for educational purposes, providing a hands-on expe
 
 For any questions or suggestions, feel free to reach out:
 
-- **Name**: Yassien Tawfik
-- **Email**: Yassien.m.m.tawfik@gmail.com
+- **Name**: Madonna Mosaad
+- **Email**: Madonna.Mosaad03@eng-st.cu.edu.eg
