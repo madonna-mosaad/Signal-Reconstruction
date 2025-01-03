@@ -102,8 +102,8 @@ An educational desktop application demonstrating signal sampling and recovery te
 
 This project wouldn’t have been possible without the hard work and collaboration of my amazing team. Huge shout-out to:
 
-- [Nancy Mahmoud](https://github.com/nancymahmoud1)
 - [Madonna Mosaad](https://github.com/madonna-mosaad)
+- [Nancy Mahmoud](https://github.com/nancymahmoud1)
 - [Yassien Tawfik](https://github.com/YassienTawfikk)
 
 
@@ -129,7 +129,7 @@ This application is tailored for educational purposes, providing a hands-on expe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/signal-reconstruction-app.git
+   git clone https://github.com/maddona-mosaad/signal-reconstruction-app.git
    ```
 2. Install dependencies:
    ```bash
