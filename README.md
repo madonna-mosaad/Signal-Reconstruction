@@ -145,4 +145,4 @@ This application is tailored for educational purposes, providing a hands-on expe
 For any questions or suggestions, feel free to reach out:
 
 - **Name**: Madonna Mosaad
-- **Email**: Madonna.Mosaad03@eng-st.cu.edu.eg
+- **Email**: [Madonna.Mosaad03@eng-st.cu.edu.eg](mailto:Madonna.Mosaad03@eng-st.cu.edu.eg)
